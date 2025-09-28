@@ -1,0 +1,1 @@
+model name	: AMD A6-7480 Radeon R5, 8 Compute Cores 2C+6G
